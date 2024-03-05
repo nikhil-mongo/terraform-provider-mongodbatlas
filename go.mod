@@ -22,7 +22,7 @@ require (
 	github.com/hashicorp/terraform-plugin-testing v1.6.0
 	github.com/mongodb-forks/digest v1.0.5
 	github.com/spf13/cast v1.6.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	github.com/zclconf/go-cty v1.14.2
 	go.mongodb.org/atlas v0.36.0
 	go.mongodb.org/atlas-sdk/v20231001002 v20231001002.0.0
@@ -117,7 +117,7 @@ require (
 	github.com/shopspring/decimal v1.2.0 // indirect
 	github.com/spf13/afero v1.9.2 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	github.com/stretchr/objx v0.5.0 // indirect
+	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/tmccombs/hcl2json v0.3.3 // indirect
 	github.com/ulikunitz/xz v0.5.10 // indirect
 	github.com/urfave/cli v1.22.2 // indirect
