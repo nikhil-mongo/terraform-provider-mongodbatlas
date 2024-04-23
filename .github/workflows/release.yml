@@ -35,7 +35,7 @@ jobs:
     if: ${{ always() && needs.validate-version-input.result == 'success' && (needs.run-qa-acceptance-tests.result == 'skipped' || needs.run-qa-acceptance-tests.result == 'success') }}
     steps:
       - name: Checkout
-        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11
+        uses: actions/checkout@1d96c772d19495a3b5c517cd2bc0cb401ea0529f
       - name: Unshallow
         run: git fetch --prune --unshallow
       - name: Create release tag
