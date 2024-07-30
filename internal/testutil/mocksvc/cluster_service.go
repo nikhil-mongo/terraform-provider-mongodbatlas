@@ -3,7 +3,7 @@
 package mocksvc
 
 import (
-	admin "go.mongodb.org/atlas-sdk/v20231115006/admin"
+	admin "go.mongodb.org/atlas-sdk/v20240530005/admin"
 
 	context "context"
 
