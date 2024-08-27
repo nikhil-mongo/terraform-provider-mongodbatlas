@@ -6,7 +6,7 @@ toolchain go1.21.6
 
 require (
 	github.com/aws/aws-sdk-go v1.50.22
-	github.com/go-test/deep v1.1.0
+	github.com/go-test/deep v1.1.1
 	github.com/gruntwork-io/terratest v0.46.11
 	github.com/hashicorp/go-cty v1.4.1-0.20200414143053-d3edf31b6320
 	github.com/hashicorp/go-version v1.6.0
@@ -24,7 +24,7 @@ require (
 	github.com/spf13/cast v1.6.0
 	github.com/stretchr/testify v1.8.4
 	github.com/zclconf/go-cty v1.14.2
-	go.mongodb.org/atlas v0.36.0
+	go.mongodb.org/atlas v0.37.0
 	go.mongodb.org/atlas-sdk/v20231001002 v20231001002.0.0
 	go.mongodb.org/atlas-sdk/v20231115006 v20231115006.0.0
 	go.mongodb.org/realm v0.1.0
