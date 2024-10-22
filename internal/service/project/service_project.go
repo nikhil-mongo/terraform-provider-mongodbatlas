@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"go.mongodb.org/atlas-sdk/v20231115006/admin"
+	"go.mongodb.org/atlas-sdk/v20240805005/admin"
 )
 
 type GroupProjectService interface {
