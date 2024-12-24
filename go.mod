@@ -21,7 +21,7 @@ require (
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.32.0
 	github.com/hashicorp/terraform-plugin-testing v1.6.0
 	github.com/mongodb-forks/digest v1.0.5
-	github.com/spf13/cast v1.6.0
+	github.com/spf13/cast v1.7.1
 	github.com/stretchr/testify v1.8.4
 	github.com/zclconf/go-cty v1.14.2
 	go.mongodb.org/atlas v0.36.0
